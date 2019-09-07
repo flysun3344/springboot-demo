@@ -71,7 +71,7 @@ public class LoginController {
     public void test
 
     {
-        System.out.println("添加测试方法qqqq");
+        System.out.println("添加测试方法");
     }
 
 }
